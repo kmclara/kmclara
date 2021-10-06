@@ -4,7 +4,7 @@
 </div> -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kmclara&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kmclara&show_icons=true&theme=nord)
 
 <a target="_blank" href="mailto:mariaclarabritosantana@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -33,5 +33,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmclara&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmclara&theme=nord)
  
