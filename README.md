@@ -1,26 +1,23 @@
-## Hello World! My name is Maria Clara. I'm a programming student!
+## Hello World! My name is Maria Clara. I'm a programming student! 😄 ✨
+
 <!-- <div>
-  <img align="center" src="https://i.imgur.com/uSKHvTy.gif">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmclara&show_icons=true&theme=nord">
 </div> -->
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kmclara&show_icons=true&theme=nord)
 
-<a target="_blank" href="mailto:mariaclarabritosantana@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/mariaclara.britosantana/">
-  <img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/kmclara_/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://t.me/mariaclarabrito">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<br/>
+## Talk to me! 🧑‍🤝‍🧑
 
-## Learning
+📷 Instagram: [click here!](https://www.instagram.com/kmclara_/)
+
+📫 GMail: [click here!](mailto:mariaclarabritosantana@gmail.com)
+
+📘 Facebook: [click here!](https://www.facebook.com/mariaclara.britosantana/)
+
+📃 Telegram: [click here!](https://t.me/mariaclarabrito)
+
+## Learning: 👩‍🎓
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,10 +25,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-## Familiarized
+## Familiarized: 🤎
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-## I want to learn
+## I want to learn: 👓
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
@@ -42,5 +39,6 @@
 
 
 
+## Control Languages: 🖊️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmclara&theme=nord)
  
